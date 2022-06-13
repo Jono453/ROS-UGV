@@ -1,6 +1,6 @@
-# ROS-WallE
+# ROS-UGV
 
-ROS Wall-E project using ROS Kinetic with Ubuntu 16.4
+ROS UGV project using ROS Kinetic with Ubuntu 16.4
 
 ## Instructions
 
@@ -9,6 +9,3 @@ ROS Wall-E project using ROS Kinetic with Ubuntu 16.4
 3. Other packages as required
 
 ## Node Structure
-* walle_joy - 
-* walle_lidar - 
-* walle_base - 
